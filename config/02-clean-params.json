@@ -1,0 +1,16 @@
+{
+    "final_columns":[
+     "stop_cause",
+     "service_area",
+     "subject_race",
+     "searched",
+     "property_seized",
+     "contraband",
+     "citation",
+     "arrested",
+     "stop_datetime"
+   ],
+    "indir": "data/raw",
+    "indir_census": "data/census",
+    "outdir": "data/cleaned"
+}

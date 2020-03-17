@@ -1,0 +1,5 @@
+{
+  "indir": "data/test/cleaned",
+  "outdir": "data/test/out",
+  "confidence_level": "95%"
+}
